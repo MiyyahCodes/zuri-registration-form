@@ -41,6 +41,8 @@ input {
 	height: 40px;
 	padding: 7px 20px;
 	background: white;
+	border-width: 1px;
+	border-radius: 8px;
 }
 .submit {
 	color: white;
@@ -58,10 +60,6 @@ input {
 	border-radius: 8px;
 }
 
-input {
-    border-width: 1px;
-	border-radius: 8px;
-}
 
 .footer {
 	color: hsl(249, 10%, 26%);
